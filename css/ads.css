@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    height: 350px;
+    width: 370px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.container{
+    background-color: #201F24;    
+}
+
+.btn-primary{
+    background-color: #f89b58;
+    border: 0;
+}
+
+
+.card-first{
+    background-image: url(https://media.croma.com/image/upload/h_300,w_300/v1697018837/Croma%20Assets/Imaging/Binoculars/Images/246768_0_fk0mp7.png);
+    background-size: cover;
+}
+.card-5paisa{
+    background-image: url(https://media.croma.com/image/upload/h_300,w_300/v1721106852/Croma%20Assets/Communication/Cases%20and%20Covers/Images/308401_nthm60.png);
+    background-size: cover;
+    border: 0px;    
+}
+.card-poker{
+    background-image: url(https://media.croma.com/image/upload/h_300,w_300/v1605281316/Croma%20Assets/Miscellanous/Travel%20Accessories/Images/8993358675998.png);
+    background-size: cover;
+    border: 0px; 
+}
+.card-marathi{
+    background-image: url(https://media.croma.com/image/upload/h_300,w_300/v1701615357/Croma%20Assets/Imaging/Camera%20Accessories/Images/301420_0_u72je7.png);
+    background-size: cover;
+    border: 0px; 
+}
+.card-rummy{
+    background-image: url(https://media.croma.com/image/upload/h_300,w_300/v1690207130/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/274329_0_upjhd2.png);
+    background-size: cover;
+    border: 0px; 
+}
+.card-mmt{
+    background-image: url(https://media.croma.com/image/upload/h_300,w_300/v1693486218/Croma%20Assets/Small%20Appliances/Home%20Safety%20Security/Images/300224_v8ljol.png);
+    background-size: cover;
+    border: 0px; 
+}
+
+.btn-primary{
+    margin-bottom: -30px;
+}
+
+.card a{
+    font-size: 12px;
+    font-weight: 400;
+}
+.card .btn{
+    padding: 2px 10px;
+}
+.card-body {
+    padding: 21px;
+    padding-top: 68px;
+}
+.card-row1{
+    margin-bottom: 30px;
+}

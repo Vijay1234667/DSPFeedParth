@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    height: 380px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.container{
+    background-color: #201F24;    
+}
+
+.main-body img{
+    width: 120px;
+}
+
+.btn-primary{
+    background-color: #f89b58;
+    border: 0;
+    padding: 6px 30px;
+}
+
+.card{
+    border: 1px solid red;
+}
+
